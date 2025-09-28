@@ -1,4 +1,4 @@
-import { Link, useLocation } from 'react-router-dom';
+import Link from "next/link";
 import { cn } from '@/lib/utils';
 
 const Header = () => {
