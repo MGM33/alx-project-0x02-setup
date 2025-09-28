@@ -1,4 +1,4 @@
-import { CardProps } from '@/interfaces';
+import { type CardProps } from '@/interfaces';
 import { cn } from '@/lib/utils';
 
 const Card = ({ title, content, className }: CardProps) => {
